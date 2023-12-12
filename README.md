@@ -4,7 +4,7 @@
 
 [![Blog](https://img.shields.io/badge/Blog-v2.0.0-blue.svg)](https://www.orz2.online/gengjian1203/)
 
-- 🐒 想要写点东西
+- 🐒 想要聊点东西
 - 🍼 那该写点啥呢
-- 💡 要不写点这个
-- 💻 那就写到这吧
+- 💡 要不简单写写
+- 💻 那就先到这吧
