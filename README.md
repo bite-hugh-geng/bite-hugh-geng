@@ -8,3 +8,14 @@
 - 🍼 该写点什么呢
 - 💡 要不简单写写
 - 💻 那就先到这吧
+
+---
+
+#### Medals
+
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=bite-hugh-geng&theme=onedark&column=-1&margin-w=15" />  
+  
+    
+#### Activities
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bite-hugh-geng&theme=merko&custom_title=Hugh%20Activities&hide_border=true&point=FFFFFF&days=50)]([https://github.com/LouisLiu00](https://github.com/bite-hugh-geng))
