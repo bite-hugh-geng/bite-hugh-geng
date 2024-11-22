@@ -18,4 +18,4 @@
     
 #### Activities
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bite-hugh-geng&theme=merko&custom_title=Hugh%20Activities&hide_border=true&point=FFFFFF&days=50)]([https://github.com/LouisLiu00](https://github.com/bite-hugh-geng))
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bite-hugh-geng&theme=merko&custom_title=Hugh%20Activities&hide_border=true&point=FFFFFF&days=50)]([https://github.com/bite-hugh-geng](https://github.com/bite-hugh-geng))
